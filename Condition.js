@@ -37,3 +37,26 @@ switch (drawer) {
     default:
         alert("Info du jour : le meuble ne contient que 4 tiroirs et, 
         jusqu\'à preuve du contraire, les tiroirs négatifs n\'existent pas.");
+
+
+var indvAge = parseInt(promt("Quelle est votre âge ?"))
+if (  1 <= indvAge && indvAge <= 17) {
+  alert("Vous n'êtes pas encore majeur.")
+}
+
+else if (  18 <= indvAge && indvAge <= 49) {
+  alert("Vous êtes majeur.")
+}
+
+else if (  50 <= indvAge && indvAge <= 59) {
+  alert("Vous êtes majeur et vous avez bien vécu.")
+}
+
+else if (  60 <= indvAge && indvAge <= 120) {
+  alert("Vous êtes majeur, profiter de votre famille !")
+}
+
+  else {
+  alert("Qu'est-ce donc !")
+}
+
