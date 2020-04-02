@@ -1,18 +1,11 @@
-# work
+# Différente notion
 
-Ici tu peux faire un README en markdown.
-Je te laisse te documenter.
-what is "markdown" ?
+Ici, j'entrepose les différents exercices et commandes que j'ai pu faire.
+Elles me servent surtout de leçon afin de revoir l'utilisation des différentes commandes.
 
-un truc pour mettre en forme.
-
-genre
-# titre
-## plus petit
-### etc..
-
-- liste
-- liste
+- https://github.com/M-Kossy/work/blob/master/Condition.js
+- https://github.com/M-Kossy/work/blob/master/Boucle.js
+- https://github.com/M-Kossy/work/blob/master/variable.js
 
 1. un
 2. deux
