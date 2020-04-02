@@ -5,4 +5,4 @@ Elles me servent surtout de leçon afin de revoir l'utilisation des différentes
 
 - https://github.com/M-Kossy/work/blob/master/Condition.js
 - https://github.com/M-Kossy/work/blob/master/Boucle.js
-- variable.js
+- https://github.com/M-Kossy/work/blob/master/variable.js
